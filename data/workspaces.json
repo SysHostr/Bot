@@ -1,0 +1,86 @@
+[
+    {
+        "info": {
+            "title": "Online",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "command_event",
+                "info": {
+                    "x": 386,
+                    "y": 40,
+                    "z": 1,
+                    "color": "#5a5a5a",
+                    "height": 267,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_name": "zIOIuMsnpR",
+                    "custom_prefix": "SvKKF3GhBP",
+                    "command_slowmode": "NO7NVgPtao"
+                },
+                "options": {
+                    "command_restriction": "server_only",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "AGaevbdISW"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "channel": [],
+                    "user": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 22,
+                    "y": 22,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "test"
+                },
+                "outputs": {
+                    "text": [
+                        "zIOIuMsnpR",
+                        "fwC1sQ6tb3"
+                    ]
+                }
+            },
+            {
+                "name": "set_bot_activity",
+                "info": {
+                    "x": 1196,
+                    "y": 69,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 165,
+                    "width": 433
+                },
+                "inputs": {
+                    "action": "AGaevbdISW",
+                    "activity_name": "fwC1sQ6tb3",
+                    "activity_url": "368Fj03wsd"
+                },
+                "options": {
+                    "activity_type": "playing"
+                },
+                "outputs": {
+                    "action": []
+                }
+            }
+        ],
+        "notes": []
+    }
+]
